@@ -1,0 +1,43 @@
+C:\Users\86501\Documents\Visual Studio 2017\Projects\软件工程基础\四则运算计算及生成器\CalculatorCSVersion\CalculatorCSVersion\bin\Debug\CalculatorCSVersion.exe.config
+C:\Users\86501\Documents\Visual Studio 2017\Projects\软件工程基础\四则运算计算及生成器\CalculatorCSVersion\CalculatorCSVersion\bin\Debug\CalculatorCSVersion.exe
+C:\Users\86501\Documents\Visual Studio 2017\Projects\软件工程基础\四则运算计算及生成器\CalculatorCSVersion\CalculatorCSVersion\bin\Debug\CalculatorCSVersion.pdb
+C:\Users\86501\Documents\Visual Studio 2017\Projects\软件工程基础\四则运算计算及生成器\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.csprojAssemblyReference.cache
+C:\Users\86501\Documents\Visual Studio 2017\Projects\软件工程基础\四则运算计算及生成器\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.csproj.CoreCompileInputs.cache
+C:\Users\86501\Documents\Visual Studio 2017\Projects\软件工程基础\四则运算计算及生成器\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.exe
+C:\Users\86501\Documents\Visual Studio 2017\Projects\软件工程基础\四则运算计算及生成器\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.pdb
+C:\Users\86501\Documents\Visual Studio 2017\Projects\软件工程基础\四则运算计算及生成器\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.Question.resources
+C:\Users\86501\Documents\Visual Studio 2017\Projects\软件工程基础\四则运算计算及生成器\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.csproj.GenerateResource.cache
+F:\学习\软工基\CalculatorCSVersionWithGUI\CalculatorCSVersion\CalculatorCSVersion\bin\Debug\CalculatorCSVersion.exe.config
+F:\学习\软工基\CalculatorCSVersionWithGUI\CalculatorCSVersion\CalculatorCSVersion\bin\Debug\CalculatorCSVersion.exe
+F:\学习\软工基\CalculatorCSVersionWithGUI\CalculatorCSVersion\CalculatorCSVersion\bin\Debug\CalculatorCSVersion.pdb
+F:\学习\软工基\CalculatorCSVersionWithGUI\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.csprojAssemblyReference.cache
+F:\学习\软工基\CalculatorCSVersionWithGUI\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.Question.resources
+F:\学习\软工基\CalculatorCSVersionWithGUI\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.csproj.GenerateResource.cache
+F:\学习\软工基\CalculatorCSVersionWithGUI\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.csproj.CoreCompileInputs.cache
+F:\学习\软工基\CalculatorCSVersionWithGUI\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.exe
+F:\学习\软工基\CalculatorCSVersionWithGUI\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.pdb
+C:\Users\86501\Documents\Visual Studio 2017\Projects\软件工程基础\四则运算计算及生成器\CalculatorCSVersionWithGUI\CalculatorCSVersion\CalculatorCSVersion\bin\Debug\CalculatorCSVersion.exe.config
+C:\Users\86501\Documents\Visual Studio 2017\Projects\软件工程基础\四则运算计算及生成器\CalculatorCSVersionWithGUI\CalculatorCSVersion\CalculatorCSVersion\bin\Debug\CalculatorCSVersion.exe
+C:\Users\86501\Documents\Visual Studio 2017\Projects\软件工程基础\四则运算计算及生成器\CalculatorCSVersionWithGUI\CalculatorCSVersion\CalculatorCSVersion\bin\Debug\CalculatorCSVersion.pdb
+C:\Users\86501\Documents\Visual Studio 2017\Projects\软件工程基础\四则运算计算及生成器\CalculatorCSVersionWithGUI\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.csprojAssemblyReference.cache
+C:\Users\86501\Documents\Visual Studio 2017\Projects\软件工程基础\四则运算计算及生成器\CalculatorCSVersionWithGUI\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.Question.resources
+C:\Users\86501\Documents\Visual Studio 2017\Projects\软件工程基础\四则运算计算及生成器\CalculatorCSVersionWithGUI\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.csproj.GenerateResource.cache
+C:\Users\86501\Documents\Visual Studio 2017\Projects\软件工程基础\四则运算计算及生成器\CalculatorCSVersionWithGUI\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.csproj.CoreCompileInputs.cache
+C:\Users\86501\Documents\Visual Studio 2017\Projects\软件工程基础\四则运算计算及生成器\CalculatorCSVersionWithGUI\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.exe
+C:\Users\86501\Documents\Visual Studio 2017\Projects\软件工程基础\四则运算计算及生成器\CalculatorCSVersionWithGUI\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.pdb
+E:\信息系统开发\PairingProjectCalculatorWithGUI-master\CalculatorCSVersion\CalculatorCSVersion\bin\Debug\CalculatorCSVersion.exe.config
+E:\信息系统开发\PairingProjectCalculatorWithGUI-master\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.exe
+E:\信息系统开发\PairingProjectCalculatorWithGUI-master\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.pdb
+E:\信息系统开发\PairingProjectCalculatorWithGUI-master\CalculatorCSVersion\CalculatorCSVersion\bin\Debug\CalculatorCSVersion.exe
+E:\信息系统开发\PairingProjectCalculatorWithGUI-master\CalculatorCSVersion\CalculatorCSVersion\bin\Debug\CalculatorCSVersion.pdb
+E:\信息系统开发\PairingProjectCalculatorWithGUI-master\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.csprojResolveAssemblyReference.cache
+E:\信息系统开发\PairingProjectCalculatorWithGUI-master\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.Question.resources
+E:\信息系统开发\PairingProjectCalculatorWithGUI-master\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.csproj.GenerateResource.Cache
+E:\信息系统开发\CalculatorCSVersion\CalculatorCSVersion\bin\Debug\CalculatorCSVersion.exe.config
+E:\信息系统开发\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.exe
+E:\信息系统开发\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.pdb
+E:\信息系统开发\CalculatorCSVersion\CalculatorCSVersion\bin\Debug\CalculatorCSVersion.exe
+E:\信息系统开发\CalculatorCSVersion\CalculatorCSVersion\bin\Debug\CalculatorCSVersion.pdb
+E:\信息系统开发\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.csprojResolveAssemblyReference.cache
+E:\信息系统开发\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.Question.resources
+E:\信息系统开发\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.csproj.GenerateResource.Cache
