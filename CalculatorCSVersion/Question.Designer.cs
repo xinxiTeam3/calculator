@@ -48,7 +48,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 22F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(236, 72);
+            this.label1.Location = new System.Drawing.Point(241, 72);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(252, 42);
             this.label1.TabIndex = 0;
@@ -57,7 +57,7 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("宋体", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button1.Location = new System.Drawing.Point(243, 268);
+            this.button1.Location = new System.Drawing.Point(295, 293);
             this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(165, 68);
@@ -69,7 +69,7 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("黑体", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button2.Location = new System.Drawing.Point(399, 205);
+            this.button2.Location = new System.Drawing.Point(566, 218);
             this.button2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(145, 49);
@@ -82,10 +82,10 @@
             // ansText
             // 
             this.ansText.Font = new System.Drawing.Font("Times New Roman", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ansText.Location = new System.Drawing.Point(140, 218);
+            this.ansText.Location = new System.Drawing.Point(275, 218);
             this.ansText.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.ansText.Name = "ansText";
-            this.ansText.Size = new System.Drawing.Size(165, 34);
+            this.ansText.Size = new System.Drawing.Size(185, 34);
             this.ansText.TabIndex = 3;
             this.ansText.Visible = false;
             // 
@@ -126,7 +126,7 @@
             // history
             // 
             this.history.Font = new System.Drawing.Font("黑体", 14F);
-            this.history.Location = new System.Drawing.Point(399, 292);
+            this.history.Location = new System.Drawing.Point(566, 317);
             this.history.Margin = new System.Windows.Forms.Padding(4);
             this.history.Name = "history";
             this.history.Size = new System.Drawing.Size(144, 44);
@@ -162,7 +162,7 @@
             // reto
             // 
             this.reto.Font = new System.Drawing.Font("黑体", 14F);
-            this.reto.Location = new System.Drawing.Point(399, 291);
+            this.reto.Location = new System.Drawing.Point(566, 317);
             this.reto.Margin = new System.Windows.Forms.Padding(4);
             this.reto.Name = "reto";
             this.reto.Size = new System.Drawing.Size(145, 45);
@@ -175,7 +175,7 @@
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("宋体", 13F);
-            this.button3.Location = new System.Drawing.Point(551, 50);
+            this.button3.Location = new System.Drawing.Point(643, 66);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(123, 64);
             this.button3.TabIndex = 11;
@@ -187,7 +187,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(711, 375);
+            this.ClientSize = new System.Drawing.Size(805, 479);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.reto);
             this.Controls.Add(this.record);
