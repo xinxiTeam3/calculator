@@ -105,7 +105,7 @@ namespace CalculatorCSVersion
         
         private void timer1_Tick(object sender, EventArgs e)
         {
-            timerText.Text = "倒计时："+(totalTime--).ToString();
+            timerText.Text = (totalTime--).ToString();
             //Thread.Sleep(3000);
             if(totalTime==-1)
             {
@@ -174,6 +174,39 @@ namespace CalculatorCSVersion
             sw1.Close();
             sw2.Close();
             MessageBox.Show("OK");
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            re.Text = "历史记录";
+            label1.Text = "四则运算练习";
+            button1.Text = "开始做题";
+            button2.Text = "提交答案";
+            button3.Text = "生成文件";
+            reto.Text = "返回";
+            radioButton1.Text = "中文";
+            radioButton2.Text = "英文";
+            history.Text = "历史记录";
+            hp.Text = "剩余次数";
+            timerText.Text = "倒计时";
+            scoreText.Text = "得分";
+
+        }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        {
+            re.Text = "Historical records";
+            label1.Text = "Arithmetic Practice";
+            button1.Text = "Start the question.";
+            button2.Text = "Submit an Answer";
+            button3.Text = "Generating files";
+            reto.Text = "Return";
+            radioButton1.Text = "Chinese";
+            radioButton2.Text = "English";
+            history.Text = "Historical records";
+            hp.Text = "Number of remaining";
+            timerText.Text = "Countdown";
+            scoreText.Text = "Score";
         }
     }
 }

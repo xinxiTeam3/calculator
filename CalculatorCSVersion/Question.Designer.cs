@@ -42,6 +42,8 @@
             this.record = new System.Windows.Forms.Label();
             this.reto = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
+            this.radioButton1 = new System.Windows.Forms.RadioButton();
+            this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.SuspendLayout();
             // 
             // label1
@@ -57,7 +59,7 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("宋体", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button1.Location = new System.Drawing.Point(243, 268);
+            this.button1.Location = new System.Drawing.Point(243, 269);
             this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(165, 68);
@@ -69,10 +71,10 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("黑体", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button2.Location = new System.Drawing.Point(399, 205);
+            this.button2.Location = new System.Drawing.Point(399, 193);
             this.button2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(145, 49);
+            this.button2.Size = new System.Drawing.Size(160, 59);
             this.button2.TabIndex = 2;
             this.button2.Text = "提交答案";
             this.button2.UseVisualStyleBackColor = true;
@@ -129,7 +131,7 @@
             this.history.Location = new System.Drawing.Point(399, 292);
             this.history.Margin = new System.Windows.Forms.Padding(4);
             this.history.Name = "history";
-            this.history.Size = new System.Drawing.Size(144, 44);
+            this.history.Size = new System.Drawing.Size(160, 56);
             this.history.TabIndex = 7;
             this.history.Text = "历史记录";
             this.history.UseVisualStyleBackColor = true;
@@ -162,10 +164,10 @@
             // reto
             // 
             this.reto.Font = new System.Drawing.Font("黑体", 14F);
-            this.reto.Location = new System.Drawing.Point(399, 291);
+            this.reto.Location = new System.Drawing.Point(399, 288);
             this.reto.Margin = new System.Windows.Forms.Padding(4);
             this.reto.Name = "reto";
-            this.reto.Size = new System.Drawing.Size(145, 45);
+            this.reto.Size = new System.Drawing.Size(160, 60);
             this.reto.TabIndex = 10;
             this.reto.Text = "返回";
             this.reto.UseVisualStyleBackColor = true;
@@ -175,19 +177,45 @@
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("宋体", 13F);
-            this.button3.Location = new System.Drawing.Point(551, 50);
+            this.button3.Location = new System.Drawing.Point(532, 11);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(123, 64);
+            this.button3.Size = new System.Drawing.Size(147, 48);
             this.button3.TabIndex = 11;
             this.button3.Text = "生成文件";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
+            // radioButton1
+            // 
+            this.radioButton1.AutoSize = true;
+            this.radioButton1.Checked = true;
+            this.radioButton1.Location = new System.Drawing.Point(584, 157);
+            this.radioButton1.Name = "radioButton1";
+            this.radioButton1.Size = new System.Drawing.Size(58, 19);
+            this.radioButton1.TabIndex = 12;
+            this.radioButton1.TabStop = true;
+            this.radioButton1.Text = "中文";
+            this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
+            // 
+            // radioButton2
+            // 
+            this.radioButton2.AutoSize = true;
+            this.radioButton2.Location = new System.Drawing.Point(584, 183);
+            this.radioButton2.Name = "radioButton2";
+            this.radioButton2.Size = new System.Drawing.Size(58, 19);
+            this.radioButton2.TabIndex = 13;
+            this.radioButton2.Text = "英文";
+            this.radioButton2.UseVisualStyleBackColor = true;
+            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
+            // 
             // Question
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(711, 375);
+            this.ClientSize = new System.Drawing.Size(711, 378);
+            this.Controls.Add(this.radioButton2);
+            this.Controls.Add(this.radioButton1);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.reto);
             this.Controls.Add(this.record);
@@ -224,5 +252,7 @@
         private System.Windows.Forms.Label record;
         private System.Windows.Forms.Button reto;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.RadioButton radioButton1;
+        private System.Windows.Forms.RadioButton radioButton2;
     }
 }

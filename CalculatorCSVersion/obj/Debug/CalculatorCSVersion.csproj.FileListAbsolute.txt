@@ -41,3 +41,11 @@ E:\信息系统开发\CalculatorCSVersion\CalculatorCSVersion\bin\Debug\Calculat
 E:\信息系统开发\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.csprojResolveAssemblyReference.cache
 E:\信息系统开发\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.Question.resources
 E:\信息系统开发\CalculatorCSVersion\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.csproj.GenerateResource.Cache
+D:\Git\test\calculator\CalculatorCSVersion\bin\Debug\CalculatorCSVersion.exe.config
+D:\Git\test\calculator\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.exe
+D:\Git\test\calculator\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.pdb
+D:\Git\test\calculator\CalculatorCSVersion\bin\Debug\CalculatorCSVersion.exe
+D:\Git\test\calculator\CalculatorCSVersion\bin\Debug\CalculatorCSVersion.pdb
+D:\Git\test\calculator\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.csprojResolveAssemblyReference.cache
+D:\Git\test\calculator\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.Question.resources
+D:\Git\test\calculator\CalculatorCSVersion\obj\Debug\CalculatorCSVersion.csproj.GenerateResource.Cache
